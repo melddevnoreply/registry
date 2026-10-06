@@ -1,0 +1,16 @@
+{
+  "registry": "MeldDev",
+  "version": "1",
+  "packages": {
+    "Node": {
+      "versions": [
+        "22"
+      ]
+    },
+    "LocalHTTP": {
+      "versions": [
+        "1.0"
+      ]
+    }
+  }
+}
