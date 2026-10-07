@@ -1,0 +1,14 @@
+{
+  "name": "LocalHTTP",
+  "version": "1.0",
+  "type": "tool",
+  "description": "Local HTTP development server",
+  "platforms": [
+    "windows-x64"
+  ],
+  "download": {
+    "windows-x64": {
+      "url": ""
+    }
+  }
+}

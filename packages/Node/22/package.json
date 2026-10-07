@@ -1,0 +1,14 @@
+{
+  "name": "Node",
+  "version": "22",
+  "type": "runtime",
+  "description": "Node.js runtime",
+  "platforms": [
+    "windows-x64"
+  ],
+  "download": {
+    "windows-x64": {
+      "url": "https://nodejs.org/dist/v22.14.0/node-v22.14.0-win-x64.zip"
+    }
+  }
+}
