@@ -1,0 +1,14 @@
+{
+  "name": "html-launcher",
+  "version": "1.0",
+  "type": "module",
+  "official": true,
+  "author": "MeldDev Corp.",
+  "description": "Launch HTML files and projects in a web browser.",
+  "platforms": [
+    "windows-x64"
+  ],
+  "commands": [
+    "html"
+  ]
+}
